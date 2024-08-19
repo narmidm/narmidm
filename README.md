@@ -29,6 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes 101: From Zero to Your First Pod on Local System — No Cloud Needed](https://medium.com/wisemonks/kubernetes-101-from-zero-to-your-first-pod-on-local-system-no-cloud-needed-82db3c862eba?source=rss-700e68fd87e4------2)
+- [Mastering Golang Backend Development: Essential Skills and Interview Tips](https://medium.com/wisemonks/mastering-golang-backend-development-essential-skills-and-interview-tips-816ec985ce3e?source=rss-700e68fd87e4------2)
+- [Meet Devin: The AI Prodigy in Software Engineering](https://medium.com/wisemonks/meet-devin-the-ai-prodigy-in-software-engineering-c8ad73cc7bd1?source=rss-700e68fd87e4------2)
+- [Apple Pkl: A New Programming Language for Configuration](https://medium.com/wisemonks/apple-pkl-a-new-programming-language-for-configuration-6a8d1d2c903e?source=rss-700e68fd87e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
