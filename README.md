@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/that_imran" target="blank"><img src="https://img.shields.io/twitter/follow/that_imran?logo=twitter&style=for-the-badge" alt="that_imran" /></a> </p>
 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=narmidm" target="_blank">Follow on LinkedIn</a>
+<p align="left"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=narmidm" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="narmidm" /></a></p>
 
 - 🔭 I’m currently working on [EGS](https://avesha.io/products/egs)
 
