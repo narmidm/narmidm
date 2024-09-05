@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Imran</h1>
 <h3 align="center">🐳 Docker Captain | 🚀 Engineering Manager at Avesha | KubeSlice Maintainer | Open-Source Advocate | Kubernetes & Golang Enthusiast | Ex-Co-Founder & CTO | Driving innovation, empowering teams and building the future.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narmidm&label=Profile%20views&color=0e75b6&style=flat" alt="narmidm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narmidm" alt="narmidm" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=narmidm" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="narmidm" /></a></p>
 
