@@ -45,6 +45,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narmidm&show_icons=true&locale=en&layout=compact" alt="narmidm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narmidm&show_icons=true&locale=en" alt="narmidm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narmidm&" alt="narmidm" /></p>
