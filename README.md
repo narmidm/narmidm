@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Trunk-Based Development the Future or Just Hype? - A Detailed Guide with Examples, Steps, and Simple Explanations](https://dev.to/narmidm/is-trunk-based-development-the-future-or-just-hype-a-detailed-guide-with-examples-steps-and-simple-explanations-533f)
 - [Mastering Go gRPC Services with Docker: A One-Stop Guide](https://medium.com/wisemonks/mastering-go-grpc-services-with-docker-a-one-stop-guide-48f1914583dc?source=rss-700e68fd87e4------2)
 - [To Go or Not to Go: A Deep Dive into Golang for the Discerning Technologist](https://medium.com/wisemonks/to-go-or-not-to-go-a-deep-dive-into-golang-for-the-discerning-technologist-6b72ceaebcb9?source=rss-700e68fd87e4------2)
 - [Understanding the Importance of gRPC and Its Applications in Modern Software Development](https://medium.com/wisemonks/understanding-the-importance-of-grpc-and-its-applications-in-modern-software-development-e60d8835ac44?source=rss-700e68fd87e4------2)
 - [To Go or Not to Go: A Deep Dive into Golang for the Discerning Technologist](https://dev.to/narmidm/to-go-or-not-to-go-a-deep-dive-into-golang-for-the-discerning-technologist-4d97)
-- [Understanding the Importance of gRPC and Its Applications in Modern Software Development](https://dev.to/narmidm/understanding-the-importance-of-grpc-and-its-applications-in-modern-software-development-2dfh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
