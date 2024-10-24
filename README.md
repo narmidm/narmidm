@@ -1,10 +1,33 @@
 <h1 align="center">Hi 👋, I'm Md Imran</h1>
 <h3 align="center">🐳 Docker Captain | 🚀 Engineering Manager at Avesha | KubeSlice Maintainer | Open-Source Advocate | Kubernetes & Golang Enthusiast | Ex-Co-Founder & CTO | Driving innovation, empowering teams and building the future.</h3>
 
+<h3>Connect with Me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=narmidm" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="narmidm" />
+  </a>
+  <a href="https://x.com/intent/user?screen_name=that_imran" target="blank">
+    <img src="https://img.shields.io/twitter/follow/that_imran" alt="that_imran" />
+  </a>
+   <a href="https://linktr.ee/narmidm" target="blank">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=plastic&logo=linktree&logoColor=white" alt="narmidm" />
+  </a>
+  <a href="https://topmate.io/narmidm" target="_blank"> <img src="https://img.shields.io/badge/Topmate-Connect-blueviolet" alt="Topmate" /> </a>
+</p>
 
-<p align="left"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=narmidm" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="narmidm" /></a></p>
+<h3>Contribute with Me</h3>
+<p align="left">
+  <a href="https://github.com/kubeslice">
+    <img src="https://img.shields.io/badge/KubeSlice-Organization-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="KubeSlice" />
+  </a>
+  <a href="https://github.com/narmidm/k8s-pod-cpu-stressor">
+    <img src="https://img.shields.io/badge/k8s--pod--cpu--stressor-Tool-F05032?style=plastic&logo=apachekafka&logoColor=white" alt="k8s-pod-cpu-stressor" />
+  </a>
+  <a href="https://github.com/narmidm/K8sToolbox">
+    <img src="https://img.shields.io/badge/K8sToolbox-Utilities-0DB7ED?style=plastic&logo=docker&logoColor=white" alt="K8sToolbox" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/that_imran" target="blank"><img src="https://img.shields.io/twitter/follow/that_imran?logo=twitter&style=for-the-badge" alt="that_imran" /></a> </p>
 
 
 
@@ -16,7 +39,8 @@
 
 - 🤝 I’m looking for help with [KubeSlice](https://github.com/kubeslice)
 
-- 📝 I regularly write articles on [https://medium.com/wisemonks](https://medium.com/wisemonks)
+- 📝 I regularly write articles on [![Medium Badge](https://img.shields.io/badge/Medium-follow-black?logo=medium)](https://medium.com/@narmidm) [![Dev.to Badge](https://img.shields.io/badge/Dev.to-follow-blue?logo=dev.to)](https://dev.to/narmidm)
+
 
 - 💬 Ask me about **Kubernetes, Docker, Golang, Solution Architect, System Design & Architecture, Cloud Infrastructure**
 
