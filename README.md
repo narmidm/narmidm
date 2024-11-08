@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Imran</h1>
-<h3 align="center">🐳 Docker Captain | 🚀 Engineering Manager at Avesha | KubeSlice Maintainer | Open-Source Advocate | Kubernetes & Golang Enthusiast | Ex-Co-Founder & CTO | Driving innovation, empowering teams and building the future.</h3>
+<h3 align="center">🐳 Docker Captain | 🚀 | KubeSlice Maintainer | Open-Source Advocate | Kubernetes & Golang Enthusiast | Ex-Co-Founder & CTO | Driving innovation, empowering teams and building the future.</h3>
 
 <h3>Connect with Me</h3>
 <p align="left">
