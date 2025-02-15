@@ -50,11 +50,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Running DeepSeek-R1 with Ollama using Only Docker: A Complete Guide](https://dev.to/narmidm/running-deepseek-r1-with-ollama-using-only-docker-a-complete-guide-24p6)
 - [🚀 Supercharge Your CI/CD Pipeline: GitHub Actions with Kubernetes Deployment](https://dev.to/narmidm/supercharge-your-cicd-pipeline-github-actions-with-kubernetes-deployment-3jhf)
 - [I&#39;ve Launched K8sToolbox 🚀—An Essential, Versatile Debugging Toolkit for Kubernetes, and I Need Your Help! 🙌](https://dev.to/narmidm/ive-launched-k8stoolbox-an-essential-versatile-debugging-toolkit-for-kubernetes-and-i-need-137c)
 - [Understanding Containers 🐳 vs Virtual Machines 💻: A Beginner’s Guide 🚀](https://dev.to/rubixkube/understanding-containers-vs-virtual-machines-a-beginners-guide-dkm)
 - [SOLID Principles Explained in a Simple Way 🛠️✨ with Real-Life Examples](https://dev.to/narmidm/solid-principles-explained-in-a-simple-way-with-real-life-examples-4lb1)
-- [How Kubernetes is Changing the Game for Multi-Cloud and Legacy Systems &lpar;Grab Your PDF&rpar;](https://medium.com/wisemonks/how-kubernetes-is-changing-the-game-for-multi-cloud-and-legacy-systems-grab-your-pdf-e08390995fa3?source=rss-700e68fd87e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
