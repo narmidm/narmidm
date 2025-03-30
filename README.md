@@ -50,11 +50,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Go From Zero to K8s Hero: Local Kubernetes Dev with DevSpace + Kind](https://dev.to/narmidm/go-from-zero-to-k8s-hero-local-kubernetes-dev-with-devspace-kind-3c8e)
 - [🔥 Introducing Docker Model Runner – Bring AI Inference to Your Local Dev Environment](https://dev.to/narmidm/introducing-docker-model-runner-bring-ai-inference-to-your-local-dev-environment-316a)
 - [Running DeepSeek-R1 with Ollama using Only Docker: A Complete Guide](https://dev.to/narmidm/running-deepseek-r1-with-ollama-using-only-docker-a-complete-guide-24p6)
 - [🚀 Supercharge Your CI/CD Pipeline: GitHub Actions with Kubernetes Deployment](https://dev.to/narmidm/supercharge-your-cicd-pipeline-github-actions-with-kubernetes-deployment-3jhf)
 - [I&#39;ve Launched K8sToolbox 🚀—An Essential, Versatile Debugging Toolkit for Kubernetes, and I Need Your Help! 🙌](https://dev.to/narmidm/ive-launched-k8stoolbox-an-essential-versatile-debugging-toolkit-for-kubernetes-and-i-need-137c)
-- [Understanding Containers 🐳 vs Virtual Machines 💻: A Beginner’s Guide 🚀](https://dev.to/rubixkube/understanding-containers-vs-virtual-machines-a-beginners-guide-dkm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
