@@ -50,11 +50,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Go From Zero to K8s Hero: Local Kubernetes Dev with DevSpace + Kind](https://dev.to/narmidm/go-from-zero-to-k8s-hero-local-kubernetes-dev-with-devspace-kind-3c8e)
-- [🔥 Introducing Docker Model Runner – Bring AI Inference to Your Local Dev Environment](https://dev.to/narmidm/introducing-docker-model-runner-bring-ai-inference-to-your-local-dev-environment-316a)
-- [Running DeepSeek-R1 with Ollama using Only Docker: A Complete Guide](https://dev.to/narmidm/running-deepseek-r1-with-ollama-using-only-docker-a-complete-guide-24p6)
-- [🚀 Supercharge Your CI/CD Pipeline: GitHub Actions with Kubernetes Deployment](https://dev.to/narmidm/supercharge-your-cicd-pipeline-github-actions-with-kubernetes-deployment-3jhf)
-- [I&#39;ve Launched K8sToolbox 🚀—An Essential, Versatile Debugging Toolkit for Kubernetes, and I Need Your Help! 🙌](https://dev.to/narmidm/ive-launched-k8stoolbox-an-essential-versatile-debugging-toolkit-for-kubernetes-and-i-need-137c)
+- [Go From Zero to K8s Hero: Local Kubernetes Dev with DevSpace + Kind](https://medium.com/wisemonks/go-from-zero-to-k8s-hero-local-kubernetes-dev-with-devspace-kind-acb5822ec959?source=rss-700e68fd87e4------2)
+- [How Kubernetes is Changing the Game for Multi-Cloud and Legacy Systems &lpar;Grab Your PDF&rpar;](https://medium.com/wisemonks/how-kubernetes-is-changing-the-game-for-multi-cloud-and-legacy-systems-grab-your-pdf-e08390995fa3?source=rss-700e68fd87e4------2)
+- [Mastering Go gRPC Services with Docker: A One-Stop Guide](https://medium.com/wisemonks/mastering-go-grpc-services-with-docker-a-one-stop-guide-48f1914583dc?source=rss-700e68fd87e4------2)
+- [To Go or Not to Go: A Deep Dive into Golang for the Discerning Technologist](https://medium.com/wisemonks/to-go-or-not-to-go-a-deep-dive-into-golang-for-the-discerning-technologist-6b72ceaebcb9?source=rss-700e68fd87e4------2)
+- [Understanding the Importance of gRPC and Its Applications in Modern Software Development](https://medium.com/wisemonks/understanding-the-importance-of-grpc-and-its-applications-in-modern-software-development-e60d8835ac44?source=rss-700e68fd87e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
